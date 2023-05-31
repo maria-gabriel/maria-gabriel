@@ -1,5 +1,7 @@
 ## Desarrolladora FullStack
 
+Con experiencia en el desarrollo web tanto en el frontend como en el backend. Mi enfoque principal está en crear aplicaciones web eficientes, intuitivas y atractivas. Tengo una sólida formación en tecnologías web y me enfoco en la experiencia del usuario.
+
 ### Habilidades
 
 <ul>
@@ -10,15 +12,17 @@
 <p>💻 Desarrollo backend: Implementación de API RESTful, manejo y gestión de bases de datos y consultas, implementación de lógica de programación (expresiones, condiciones, funciones, promesas...)</p>
 </li>
 <li>
+<p>📁 Bases de datos: Diseño de esquemas de base de datos, optimización de consultas, implementación de relaciones y mantenimiento </p>
+</li>
+<li>
 <p>⚙️ Herramientas de desarrollo: Uso de IDEs como Visual Studio Code y Sublime Text, uso de herramientas de depuración y pruebas, configuración de entornos de desarrollo local y remoto. </p>
 </li>
 </ul>
 <br>
-<p style="text-right">
+<p>
 <code><a title="HTML" target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width: 100%;"></a></code> 
 <code><a title="CSS" target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width: 100%;"></a></code>
 <code><a title="JavaScript" target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width: 100%;"></a></code>
-<code><a title="JQuery" target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"><img height="20" alt="jquery" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" style="max-width: 100%;"></a></code>
 <code><a title="PHP" target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"><img height="20" alt="PHP" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" style="max-width: 100%;"></a></code>
 <code><a title="Java" target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" style="max-width: 100%;"></a></code>
 <code><a title="C" target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"><img height="20" alt="c" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" style="max-width: 100%;"></a></code>
@@ -28,6 +32,7 @@
 <code><a title="NodeJS" target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width: 100%;"></a></code>
 <code><a title="AndroidStudio" target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"><img height="20" alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" style="max-width: 100%;"></a></code>
 <code><a title="Bootstrap" target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"><img height="20" alt="bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="max-width: 100%;"></a></code>
+<code><a title="WordPress" target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"><img height="20" alt="wordpress" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" style="max-width: 100%;"></a></code>
 </p>
 
 <!--
