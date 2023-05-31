@@ -1,7 +1,5 @@
 ## Desarrolladora FullStack
 
-Con experiencia en el desarrollo web tanto en el frontend como en el backend. Mi enfoque principal está en crear aplicaciones web eficientes, intuitivas y atractivas. Tengo una sólida formación en tecnologías web y me enfoco en la experiencia del usuario.
-
 ### Habilidades
 
 <ul>
@@ -10,9 +8,6 @@ Con experiencia en el desarrollo web tanto en el frontend como en el backend. Mi
 </li>
 <li>
 <p>💻 Desarrollo backend: Implementación de API RESTful, manejo y gestión de bases de datos y consultas, implementación de lógica de programación (expresiones, condiciones, funciones, promesas...)</p>
-</li>
-<li>
-<p>📁 Bases de datos: Diseño de esquemas de base de datos, optimización de consultas, implementación de relaciones y mantenimiento </p>
 </li>
 <li>
 <p>⚙️ Herramientas de desarrollo: Uso de IDEs como Visual Studio Code y Sublime Text, uso de herramientas de depuración y pruebas, configuración de entornos de desarrollo local y remoto. </p>
