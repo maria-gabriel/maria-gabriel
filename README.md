@@ -9,9 +9,6 @@
 <li>
 <p>💻 Desarrollo backend: Implementación de API RESTful, manejo y gestión de bases de datos y consultas, implementación de lógica de programación (expresiones, condiciones, funciones, promesas...)</p>
 </li>
-<li>
-<p>⚙️ Herramientas de desarrollo: Uso de IDEs como Visual Studio Code y Sublime Text, uso de herramientas de depuración y pruebas, configuración de entornos de desarrollo local y remoto. </p>
-</li>
 </ul>
 <br>
 <p>
