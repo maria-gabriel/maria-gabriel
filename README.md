@@ -1,17 +1,24 @@
-### Hi 👋
+## ¡Hola, soy Mary!
 
-<ul dir="auto">
+Soy una desarrolladora full stack apasionada por la programación. Mi enfoque principal es el desarrollo web, y tengo experiencia tanto en el frontend como en el backend.
+
+### Habilidades
+
+<ul>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="briefcase" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bc.png">💼</g-emoji> FrontEnd Engineer at <a href="http://razorpay.com/" rel="nofollow">Razorpay</a></p>
+<p>📕 Desarrollo frontend: HTML5, CSS3, JavaScript, React, Angular </p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji> Built github-readme-stats, verlyjs and more, <strong>50m+</strong> hits • <strong>50K</strong> stars on GitHub</p>
+<p>💻 Desarrollo backend: Node.js, Express, Java </p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> I love writing TypeScript, and building fun experiments on type-level</p>
+<p>📁 Bases de datos: MySQL, MongoDB </p>
 </li>
 <li>
-<p dir="auto"><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about anything <a href="https://github.com/anuraghazra/anuraghazra/issues">here</a></p>
+<p>📦 Control de versiones: Github </p>
+</li>
+<li>
+<p>⚙️ Herramientas de desarrollo: Visual Studio Code, Postman </p>
 </li>
 </ul>
 
