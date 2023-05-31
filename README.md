@@ -9,10 +9,10 @@ Soy una desarrolladora FullStack. Mi enfoque principal es el desarrollo web, y t
 <p>📕 Desarrollo frontend: Diseño UI web responsivo, creación y edición de contenido, implementación de animaciones y efectos visuales utilizando CSS3 y JavaScript </p>
 </li>
 <li>
-<p>💻 Desarrollo backend: Implementación de API RESTful, manejo y gestión de bases de datos y consultas, implementación de lógica de programación </p>
+<p>💻 Desarrollo backend: Implementación de API RESTful, manejo y gestión de bases de datos y consultas, implementación de lógica de programación (expresiones, condiciones, funciones, promesas...)</p>
 </li>
 <li>
-<p>📁 Bases de datos: Diseño de esquemas de base de datos, optimización de consultas, implementación de relaciones y almacenamiento de datos </p>
+<p>📁 Bases de datos: Diseño de esquemas de base de datos, optimización de consultas, implementación de relaciones y mantenimiento </p>
 </li>
 <li>
 <p>⚙️ Herramientas de desarrollo: Uso de IDEs como Visual Studio Code y Sublime Text, uso de herramientas de depuración y pruebas, configuración de entornos de desarrollo local y remoto. </p>
