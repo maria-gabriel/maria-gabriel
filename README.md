@@ -4,7 +4,7 @@
 
 <ul>
 <li>
-<p>📕 Desarrollo frontend: Diseño UI web responsivo, creación y edición de contenido, implementación de animaciones y efectos visuales utilizando CSS3 y JavaScript </p>
+<p>📕 Desarrollo frontend: Diseño UI web responsivo, creación y edición de contenido, implementación de animaciones y efectos visuales utilizando CSS3, SCSS y JavaScript </p>
 </li>
 <li>
 <p>💻 Desarrollo backend: Implementación de API RESTful, manejo y gestión de bases de datos y consultas, implementación de lógica de programación (expresiones, condiciones, funciones, peticiones, promesas...)</p>
